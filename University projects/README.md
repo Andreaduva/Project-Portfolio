@@ -2,6 +2,6 @@ This directory contains a collection of projects I have worked on during my acad
 - **Orbital Mechanics**: our group was asked to perform two studies. The first consisted in finding a suitable transfer trajectory for a satellite departing
   from Mercury and arriving at Jupiter, with an intermediate fly-by over the Earth. A time window of 40 years, between the first allowed departure date and the last possible arrival date, was given as constraint.
   The team used a combination of physical intuition, approximations of ideal trajectories, and numerical methods (parallel search grids, genetic algorithms, gradient-based minimization) to provide optimal solutions in terms of
-  $\Delta V$ and time of flight. \\
-  The second study involved 
+  $\Delta V$ and time of flight. \
+  The second study involved the study of the Moon and J2 perturbations on a nominal orbit, and the effects on the satellite's ground track. A comparison with real world data has also been performed. \In this project I participated in both assignments, developing the solution strategies and the numerical algorithms, written mainly in MATLAB.
 -
